@@ -29,7 +29,7 @@
 		<dc:title id="title">Laughing Boy</dc:title>
 		<meta property="file-as" refines="#title">Laughing Boy</meta>
 		<dc:subject id="subject-1">Navajo Indians -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-1"/>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108356</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
@@ -39,7 +39,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>PG_URL</dc:source>
 		<dc:source>IA_URL</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -52,6 +52,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Oliver_La_Farge</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79007018</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">N. C. Wyeth</dc:contributor>
 		<meta property="file-as" refines="#artist">Wyeth, N. C.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Newell Convers Wyeth</meta>
