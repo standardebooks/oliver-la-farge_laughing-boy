@@ -74,3 +74,11 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+#dedication b{
+	font-style: normal;
+}
+
+#dedication{
+	font-style: italic;
+}
