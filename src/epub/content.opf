@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oliver-la-farge/laughing-boy</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,14 +35,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:description id="description">A young Navajo man grows into adulthood as Americans are settling the West.</dc:description>
+		<dc:description id="description">A young Navajo man meets a mysterious young woman as he enters adulthood during the American expansion into the West.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Laughing Boy is the name of a young Navajo man living in the American Southwest during the era when the Americans are pushing westward in earnest. He’s looking to find his way in the world and earn the respect of his tribe, when he meets a mysterious and fiery young woman, Slim Girl, at a tribal meet.&lt;/p&gt;
+			&lt;p&gt;Slim Girl was raised in an American Indian school, a type of boarding school designed by missionaries to “civilize” the native population. Her experiences there left her deeply resentful, and this bitterness carries on in her approach to the world: where Laughing Boy is optimistic, respectful of tradition, and comfortable with himself, Slim Girl is calculating, tough, and secretive. The two quickly fall in love, but Laughing Boy’s family warns against the union—it seems that Slim Girl has a reputation that precedes her. Despite the warning, the two begin a life together in a way that blends the traditional with the new American, before a dark secret in Slim Girl’s past threatens their happiness.&lt;/p&gt;
+			&lt;p&gt;The story is, on its face, a love story, but &lt;a href="https://standardebooks.org/ebooks/oliver-la-farge"&gt;La Farge&lt;/a&gt; uses the framework of a romance to explore much deeper questions of tradition, native versus Western lifestyles, and how the inexorable expansion of Americans into the West changed things for the civilizations living there.&lt;/p&gt;
+			&lt;p&gt;La Farge was not just a novelist—he was also an anthropologist who spent much of his career studying Native Americans, the Navajo in particular. His deep knowledge of their culture, practices, and language allows him to create a convincing air of authenticity in the narrative, which went on to earn the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize for Fiction&lt;/a&gt; in 1930.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/laughingboy0000unse_t9r1</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64851</meta>
+		<meta property="se:reading-ease.flesch">83.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Laughing_Boy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oliver-la-farge_laughing-boy</meta>
 		<dc:creator id="author">Oliver La Farge</dc:creator>
