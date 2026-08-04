@@ -37,7 +37,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:abstract>A young Navajo man meets a mysterious young woman as he enters adulthood during the American expansion into the West.</dc:abstract>
+		<meta property="schema:abstract">A young Navajo man meets a mysterious young woman as he enters adulthood during the American expansion into the West.</meta>
 		<dc:description>
 			&lt;p&gt;Laughing Boy is the name of a young Navajo man living in the American Southwest during the era when the Americans are pushing westward in earnest. He’s looking to find his way in the world and earn the respect of his tribe, when he meets a mysterious and fiery young woman, Slim Girl, at a tribal meet.&lt;/p&gt;
 			&lt;p&gt;Slim Girl was raised in an American Indian school, a type of boarding school designed by missionaries to “civilize” the native population. Her experiences there left her deeply resentful, and this bitterness carries on in her approach to the world: where Laughing Boy is optimistic, respectful of tradition, and comfortable with himself, Slim Girl is calculating, tough, and secretive. The two quickly fall in love, but Laughing Boy’s family warns against the union—it seems that Slim Girl has a reputation that precedes her. Despite the warning, the two begin a life together in a way that blends the traditional with the new American, before a dark secret in Slim Girl’s past threatens their happiness.&lt;/p&gt;
